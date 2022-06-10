@@ -1,0 +1,2 @@
+youtube-comment-downloader --url https://www.youtube.com/watch?v=v7v1hIkYH24 --output comments1.json
+--limit 5000 --language ENGLISH
